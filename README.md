@@ -1,3 +1,1 @@
-# CS224-Markov
-# Markov Chain Project
-# Create two shell scripts that will generate random sentences from input text.
+# Bash scripts will generate new sentences from input text using markov chain based predictive text analysis.
